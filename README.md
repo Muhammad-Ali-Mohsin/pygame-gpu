@@ -6,7 +6,7 @@ A small module which seamlessly interfaces the popular pygame library with the G
 
 ## Installation
 
-Download all files and extract them into your project. Use pip to install the necessary requirements
+Download all files and extract them into your project. Use pip to install the necessary requirements.
 
 ```bash
 pip install moderngl pygame
